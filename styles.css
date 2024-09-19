@@ -8,9 +8,14 @@ table,td{
 	border:1px solid black;
 	
 }
+#table-1
+{
+	width:400px;
+	height:100px;
+}
 #t11,#t12,#t13
 {
- padding:0px 100px 0px 0px;
+ padding:1px;
 }
 .center
 {
@@ -19,9 +24,14 @@ table,td{
 }
 .right
 {
-   text-align:center;	
+   text-align:right;	
 }
 #table-2
+{
+	width:400px;
+	height:100px;
+}
+#table-3
 {
 	width:400px;
 	height:100px;
